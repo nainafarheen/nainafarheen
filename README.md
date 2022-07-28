@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nainafarheen
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning automation using selenium with java
+- 🌱 I have knowledge and experience on automation testing using selenium with java, testng frame work.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
